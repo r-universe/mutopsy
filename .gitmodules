@@ -5,3 +5,6 @@
 [submodule "coglyphr"]
 	path = coglyphr
 	url = https://github.com/mutopsy/coglyphr
+[submodule "pwranova"]
+	path = pwranova
+	url = https://github.com/mutopsy/pwranova
